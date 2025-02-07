@@ -11,17 +11,20 @@ Pay Bill: Manage bill payments for customers.
 Show Details: View detailed information of registered customers.
 Last Bill: Display the most recent bill generated for a customer.
 Database Integration: All data is stored and managed using MySQL.
+
 **_Technologies Used_**
 Java (Swing for GUI)
 MySQL (Database)
 JDBC (Java Database Connectivity)
 NetBeans/VS Code (IDE for development)
+
 **_Prerequisites_**
 Before running the project, ensure you have the following installed:
 Java JDK 8 or higher
 MySQL Server
 JDBC Connector (add mysql-connector-java.jar to your project library)
 NetBeans, VS Code, or any preferred Java IDE
+
 **_Contributing_**
 Feel free to fork this repository, make changes, and submit pull requests. For major changes, please open an issue first to discuss the proposed changes.
 
