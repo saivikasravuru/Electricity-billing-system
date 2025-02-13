@@ -34,7 +34,7 @@ This project is licensed under the MIT License.
 **Contact**
 
 Ravuru Sai Vikas,
-Sriram nagendra
+Sriram nagendra.
 
 GitHub Profile
 
